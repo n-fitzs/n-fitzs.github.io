@@ -9,6 +9,6 @@ linkedin: https://www.linkedin.com/in/nathanfitzsimmons2010/
 <br>
 github: n-fitzs.github.io
 <br>
-CCNA: 
+CCNA: https://www.credly.com/badges/85c4d2d4-67ac-4fc7-85f3-089a740abd8b/public_url
 <br>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="85c4d2d4-67ac-4fc7-85f3-089a740abd8b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
